@@ -5,7 +5,7 @@ We can assume the behavior of a disease is governed by the following mathematica
 
 $$x = [S(t), I(t), R(t)]$$
 
-where $S(t), I(t), and R(t)$ denote the fractions of the population who are susceptible, infected, or recovered, respectively, at time $t$.
+where $S(t), I(t),$ and $R(t)$ denote the fractions of the population who are susceptible, infected, or recovered, respectively, at time $t$.
 
 We assume $x$ evolves as an ordinary differential equation,
 
